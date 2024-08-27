@@ -1,3 +1,8 @@
+<html>
+<header>
+<h1>Kirby.</h1>
+</header>
+</html>
 
 void setup(){
   size(600,600);
