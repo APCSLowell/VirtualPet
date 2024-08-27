@@ -4,8 +4,7 @@
 <h1>Kirby.</h1>
 </header>
 <footer>Here is a really creepy Kirby</footer>
-</body>
-</html>
+
 
 void setup(){
   size(600,600);
@@ -30,3 +29,5 @@ fill(231,111,166);
 ellipse(160,220,100,110);
 }
 
+</body>
+</html>
