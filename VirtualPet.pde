@@ -2,6 +2,7 @@
 <header>
 <h1>Kirby.</h1>
 </header>
+<footer>Here is a really creepy Kirby</footer>
 </html>
 
 void setup(){
