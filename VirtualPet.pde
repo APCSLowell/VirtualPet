@@ -1,12 +1,3 @@
-/*<html>
-<body>
-<header>
-<h1>Kirby.</h1>
-</header>
-<footer>Here is a really creepy Kirby</footer>
-*/
-
-
 void setup(){
   size(600,600);
 background(0,0,0);
@@ -29,6 +20,3 @@ ellipse(460,320,100,110);
 fill(231,111,166);
 ellipse(160,220,100,110);
 }
-
-//</body>
-//</html>
