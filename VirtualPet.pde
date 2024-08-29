@@ -1,9 +1,10 @@
-<html>
+/*<html>
 <body>
 <header>
 <h1>Kirby.</h1>
 </header>
 <footer>Here is a really creepy Kirby</footer>
+*/
 
 
 void setup(){
@@ -29,5 +30,5 @@ fill(231,111,166);
 ellipse(160,220,100,110);
 }
 
-</body>
-</html>
+//</body>
+//</html>
